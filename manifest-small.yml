@@ -9,7 +9,7 @@ description: |
 nodes:
   - nodeGroup: vps
     fixedCloudlets: 16
-    diskLimit: 10
+    diskLimit: 20
     nodeType: "${settings.vpslist}"
  
 settings:
