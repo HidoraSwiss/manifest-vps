@@ -1,4 +1,5 @@
-type: installname: Medium VPS
+type: install
+name: Medium VPS
 displayName: Medium VPS
 categories: ["apps/vps"]
 homepage: https://github.com/HidoraSwiss/manifest-vps
@@ -9,7 +10,7 @@ description: |
 nodes:
   - nodeGroup: vps
     fixedCloudlets: 32
-    diskLimit: 10
+    diskLimit: 50
     nodeType: "${settings.vpslist}"
  
 settings:
