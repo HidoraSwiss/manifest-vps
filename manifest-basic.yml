@@ -1,4 +1,5 @@
-type: installname: Basic VPS
+type: install
+name: Basic VPS
 displayName: Basic VPS
 categories: ["apps/vps"]
 homepage: https://github.com/HidoraSwiss/manifest-vps
