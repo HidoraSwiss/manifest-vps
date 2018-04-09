@@ -1,4 +1,5 @@
-type: installname: Small VPS
+type: install
+name: Small VPS
 displayName: Small VPS
 categories: ["apps/vps"]
 homepage: https://github.com/HidoraSwiss/manifest-vps
