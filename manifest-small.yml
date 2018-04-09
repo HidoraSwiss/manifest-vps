@@ -1,0 +1,28 @@
+type: installname: Small VPS
+displayName: Small VPS
+categories: ["apps/vps"]
+homepage: https://github.com/HidoraSwiss/manifest-vps
+logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps.png
+description: |
+  Small VPS (Ubuntu or CentOS)
+
+nodes:
+  - nodeGroup: vps
+    fixedCloudlets: 16
+    diskLimit: 10
+    nodeType: "${settings.vpslist}"
+ 
+settings:
+  fields:
+   - type: list
+     name: vpslist
+     caption: VPS
+     required: true
+     values:
+         ubuntu16-04: Ubuntu 16
+         centos7: CentOs 7
+     default: centos7
+
+ 
+success: |
+  ## Your VPS is ready to be used
