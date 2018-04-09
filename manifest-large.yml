@@ -1,4 +1,5 @@
-type: installname: Large VPS
+type: install
+name: Large VPS
 displayName: Large VPS
 categories: ["apps/vps"]
 homepage: https://github.com/HidoraSwiss/manifest-vps
@@ -9,7 +10,7 @@ description: |
 nodes:
   - nodeGroup: vps
     fixedCloudlets: 64
-    diskLimit: 10
+    diskLimit: 100
     nodeType: "${settings.vpslist}"
  
 settings:
