@@ -1,7 +1,7 @@
 type: install
 name: Large VPS
 displayName: Large VPS
-categories: ["apps/vps"]
+categories: ["apps/VPS"]
 homepage: https://github.com/HidoraSwiss/manifest-vps
 logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps.png
 description: |
