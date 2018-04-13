@@ -2,10 +2,18 @@ type: install
 name: Large VPS
 displayName: Large VPS
 categories: ["apps/VPS"]
-homepage: https://github.com/HidoraSwiss/manifest-vps
-logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps.png
+homepage: https://hidora.com/vps
+logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps-hidora.png
 description: |
-  Large VPS (Ubuntu or CentOS)
+  **Large VPS (Ubuntu or CentOS)**
+  
+  RAM 8 GB
+  
+  CPU 25.6 GHz
+
+  SSD Disk 100 GB
+  
+  Backup every 12 hours
 
 nodes:
   - nodeGroup: vps
