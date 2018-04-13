@@ -11,20 +11,14 @@ You can deploy your VPS on Jelastic's provider in few seconds using these manife
 RAM **1 GB**  
 CPU **3.2 GHz**  
 Bandwidth **1.4 TB**  
-SSD Disk **10 GB**  
-50+ PaaS templates for PHP, Java, Node.JS, .NET, Ruby, Python, Docker  
-SQL & NoSQL Databases  
-Autoscaling up to 32 GB RAM  
+SSD Disk **10 GB**   
 **Backup every 12 hours**
 
 ## Small
 RAM **2 GB**  
 CPU **6.4 GHz**  
 Bandwidth **1.4 TB**  
-SSD Disk **20 GB**  
-50+ PaaS templates for PHP, Java, Node.JS, .NET, Ruby, Python, Docker  
-SQL & NoSQL Databases  
-Autoscaling up to 32 GB RAM  
+SSD Disk **20 GB**    
 **Backup every 12 hours**
 
 ## Medium
@@ -32,10 +26,7 @@ Autoscaling up to 32 GB RAM
 RAM **4 GB**  
 CPU **12.8 GHz**  
 Bandwidth **1.4 TB**  
-SSD Disk **50 GB**  
-50+ PaaS templates for PHP, Java, Node.JS, .NET, Ruby, Python, Docker  
-SQL & NoSQL Databases  
-Autoscaling up to 32 GB RAM  
+SSD Disk **50 GB**    
 **Backup every 12 hours**
 
 ## Large
@@ -43,8 +34,5 @@ Autoscaling up to 32 GB RAM
 RAM **8 GB**  
 CPU **25.6 GHz**  
 Bandwidth **1.4 TB**  
-SSD Disk **100 GB**  
-50+ PaaS templates for PHP, Java, Node.JS, .NET, Ruby, Python, Docker  
-SQL & NoSQL Databases  
-Autoscaling up to 32 GB RAM  
+SSD Disk **100 GB**    
 **Backup every 12 hours**
