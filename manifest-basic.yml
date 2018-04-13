@@ -2,11 +2,18 @@ type: install
 name: Basic VPS
 displayName: Basic VPS
 categories: ["apps/VPS"]
-homepage: https://github.com/HidoraSwiss/manifest-vps
-logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps.png
+homepage: https://hidora.com/vps
+logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps-hidora.png
 description: |
-  Basic VPS (Ubuntu or CentOS)
-
+  **Basic VPS (Ubuntu or CentOS)**
+  
+  RAM 1 GB
+  
+  CPU 3.2 GHz
+ 
+  SSD Disk 10 GB
+  
+  Backup every 12 hours
 nodes:
   - nodeGroup: vps
     fixedCloudlets: 8
