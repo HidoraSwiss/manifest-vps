@@ -2,10 +2,18 @@ type: install
 name: Medium VPS
 displayName: Medium VPS
 categories: ["apps/VPS"]
-homepage: https://github.com/HidoraSwiss/manifest-vps
-logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps.png
+homepage: https://hidora.com/vps
+logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps-hidora.png
 description: |
-  Medium VPS (Ubuntu or CentOS)
+  **Medium VPS (Ubuntu or CentOS)**
+  
+  RAM 4 GB
+  
+  CPU 12.8 GHz
+  
+  SSD Disk 50 GB
+  
+  Backup every 12 hours
 
 nodes:
   - nodeGroup: vps
