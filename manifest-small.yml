@@ -2,11 +2,18 @@ type: install
 name: Small VPS
 displayName: Small VPS
 categories: ["apps/VPS"]
-homepage: https://github.com/HidoraSwiss/manifest-vps
-logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps.png
+homepage: https://hidora.com/vps
+logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps-hidora.png
 description: |
-  Small VPS (Ubuntu or CentOS)
-
+  **Small VPS (Ubuntu or CentOS)**
+  
+  RAM 2 GB
+  
+  CPU 6.4 GHz
+  
+  SSD Disk 20 GB
+  
+  Backup every 12 hours
 nodes:
   - nodeGroup: vps
     fixedCloudlets: 16
