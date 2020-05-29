@@ -1,7 +1,7 @@
 type: install
 name: Basic VPS
 displayName: Basic VPS
-categories: ["apps/VPS"]
+categories: ["apps/vps"]
 homepage: https://hidora.com/vps
 logo: https://raw.githubusercontent.com/HidoraSwiss/manifest-vps/master/images/vps-hidora.png
 description: |
@@ -28,8 +28,10 @@ settings:
      required: true
      values:
          ubuntu16-04: Ubuntu 16
+         ubuntu-vps: Ubuntu 18
          centos7: CentOs 7
-     default: centos7
+         debian-vps: Debian 9          
+     default: centos7 
 
  
 success: |
